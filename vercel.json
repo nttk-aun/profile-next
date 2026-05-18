@@ -2,15 +2,15 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "headers": [
     {
-      "source": "/(.*)\\.docx",
+      "source": "/(.*)\\.pdf",
       "headers": [
         {
           "key": "Content-Type",
-          "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          "value": "application/pdf"
         },
         {
           "key": "Content-Disposition",
-          "value": "attachment; filename=\"CV_Nonthawat_Thongkham.docx\""
+          "value": "attachment; filename=\"CV_Nonthawat_Thongkham.pdf\""
         }
       ]
     }
