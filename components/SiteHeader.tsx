@@ -54,9 +54,9 @@ export function CvHeaderActions() {
   return (
     <nav className="header-actions" aria-label="Quick actions">
       <a
-        href="/CV_Nonthawat_Thongkham.docx"
+        href="/CV_Nonthawat_Thongkham.pdf"
         className="btn btn--ghost"
-        download="CV_Nonthawat_Thongkham.docx"
+        download="CV_Nonthawat_Thongkham.pdf"
         aria-label="Download CV"
       >
         Download CV
