@@ -76,8 +76,8 @@ export const profile = {
       },
       {
         name: "MCOT — Broadcast Content Management System",
-        period: "Jan 2025 – Feb 2025",
-        periodDatetime: "2025-01/2025-02",
+        period: "Nov 2024 – Feb 2025",
+        periodDatetime: "2024-11/2025-02",
         technologies: ["Next.js", "Tailwind CSS", "TypeScript"],
         duties: [
           "Designed UI/UX on Figma and implemented responsive frontend components",
@@ -87,8 +87,8 @@ export const profile = {
       },
       {
         name: "Big C — Internal Management System",
-        period: "2024",
-        periodDatetime: "2024",
+        period: "Apr 2025 - Jun 2025",
+        periodDatetime: "2025-04/2025-06",
         technologies: [
           "jQuery",
           "Java Spring Roo",
